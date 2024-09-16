@@ -23,10 +23,10 @@ O site contém as seguintes páginas:
 ## Estrutura de Arquivos
 
 - ├── img                         
-- -├── Bronze_medal.png             
-- -├── Gold_medal.png               
-- -├── GoldSilverBronze_medals.png  
-- -└── Silver_medal.png            
+- - ├── Bronze_medal.png             
+- - ├── Gold_medal.png               
+- - ├── GoldSilverBronze_medals.png  
+- - └── Silver_medal.png            
 - ├── como-praticar.html 
 - ├── competidores.html 
 - ├── estilo.css 
