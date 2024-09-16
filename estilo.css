@@ -63,6 +63,26 @@ td button {
     margin-left: 10px;
 }
 
+figure{
+    margin:0;
+    margin-top: 10px;
+}
+
+.tecnicas {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+.tecnicas figure {
+    float: left;
+    margin: 10px;
+    width: 45%;
+  }
+figcaption{
+    font-size: 15px
+    
+}
+
 footer {
     background-color: #333;
     color: #fff;
